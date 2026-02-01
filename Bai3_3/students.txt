@@ -1,0 +1,17 @@
+=== SINH VIEN ===Ma sinh vien: 65134312
+Ho ten: Tran Duc Viet
+Diem Toan: 8.0
+Diem Ly: 5.5
+Diem Hoa: 7.0
+Diem TB: 6.83
+=======================
+
+=== SINH VIEN ===
+Ma sinh vien: 65134312
+Ho ten: Tran Duc Viet
+Diem Toan: 8.3
+Diem Ly: 5.5
+Diem Hoa: 6.8
+Diem TB: 6.87
+=======================
+
